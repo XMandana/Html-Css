@@ -1,1 +1,12 @@
 This site is included in this repository for practice and testing purposes and does not include any details.
+
+Description:
+Grayscale is a multipurpose, one page website theme featuring a dark layout along with smooth scrolling page animations.
+Features
+
+    -SCSS/SASS files and compiled CSS included
+    -Fixed top navigation that collapses on scroll
+    -Smooth scrolling animations
+    -Scrollspy that highlights active page sections
+    -Custom button styling
+
